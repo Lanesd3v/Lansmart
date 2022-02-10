@@ -1,0 +1,198 @@
+
+/* corpo da lanessmart*/
+
+body{
+	background-color: blue;
+	background-image: url("");
+	background-repeat:no-repeat;
+	background-size: ;
+	font-size: 26px;
+
+
+
+}
+
+*{margin:0;
+padding: 0;
+}
+header{
+	background-color: black; 
+	height:150px;
+	padding:20px;
+	font-size:30px;
+	font-style: italic;
+	position: fixed;top: 0; left: 0px; right:0px;
+
+
+
+
+}
+
+
+	footer{
+	background-color: blue;
+	height: 50px;
+	left: px;
+	font-family:Baskerville ;
+	text-align:center;
+	color: white;
+	text-decoration: none;
+
+}
+
+
+h1{
+	color:white;
+	text-align:center;
+	font-family: Baskerville;
+	margin-top:-80px;
+	padding: 50px;
+	margin-bottom:0px;
+	clear: both;
+	text-decoration: inherit;
+	
+}
+
+h2{
+	color: white;
+	text-align:center;
+	font-family: Baskerville;
+
+}
+
+#menu{
+	float: right;
+	margin-top: 50px;
+	margin-right: 10px;
+
+}
+
+#menu a{padding: 10px 20px;
+	font-family:Baskerville ;
+	text-decoration:none;
+	color: white;
+	text-shadow: 2px 2px 2px blue;
+	font-size: 20px;
+	clear: both;
+}
+
+#menu a:hover{
+	background-color: black;
+	color:blue;
+
+}
+
+
+#imgposição{
+	position:absolute ;
+	left:600px
+	height:px;
+}
+
+.divprincipal{
+	color: white;
+text-decoration-color: white;
+text-align: justify;
+font-family: Helvetica;
+text-align: left;
+font-size: 1.2rem;
+padding:0;
+margin-top:-44px;
+margin: 25px;
+
+}
+
+nav{
+	background-color: black;
+	height: 20px;
+	left: 20px;
+}
+
+.marketing{
+background-color: black;
+width: 100%;
+
+}
+
+.marcas{
+	background-color:#d3d3d3 ;
+width:100%;
+}
+.orçamento{
+	background-color:;
+	background-image: url("https://www.britec.com.br/wp-content/uploads/2018/04/curso-de-manutencao-de-celular-2.jpg");
+	background-repeat:no-repeat;
+	background-size: ;
+	font-size: 26px;
+
+}
+
+H3{
+ margin-top:px ;
+ font-family: Helvetica;
+ color: blue;
+}
+
+/*posição formulário do orçamento*/
+
+.posiçãoform{
+background-color: ;
+	margin-top: 60px;
+	font-family:Didot;
+	font-size: 30px;
+	color: white;
+
+}
+
+input[type="text"]{width: 200px;background-color:#ccc;height: 35px;border:15px; }
+  input[type="email"]{width: 200px;background-color:#ccc;height: 35px;border:15px;}
+  input[type=submit]{width:50px; background-color: blue;height:30px;border:200px;cursor:pointer;color:#fff;}
+  input[type="Endereço"]{width: 200px;background-color:#ccc;height: 35px;border:15px;}
+  input[type="Telefone"]{width: 200px;background-color:#ccc;height: 35px;border:15px;}
+  input[type="Cep"]{width: 200px;background-color:#ccc;height: 35px;border:15px;}
+  input[type="Area"]{width: 200px;background-color:#ccc;height: 35px;border:15px;}
+
+ /*design H1 novo*/
+
+.h1novo{
+	color: #0468ff;
+	text-align:center;
+	font-family: ;
+	margin-top:105px;
+	padding: 50px;
+	margin-bottom:0px;
+	clear: both;
+}
+
+p{
+	width: 700px;
+	font-size: 1.5rem;
+	text-align: left;
+	padding-left: 10px;
+	color: #c5c5c5;
+	text-align: justify;
+
+}
+
+.voltaprainicial{
+text-align: right;
+font-size: 20px;
+
+}
+
+.voltaprainicial a{
+	margin-right: 5px;
+	text-decoration: none;
+  color: white;
+  border-style: solid;
+  border-color:	red ;
+  border-width:2px;
+
+}
+
+.abaixoheader{
+   background-image:url("marketingdigital.jpg");
+  }
+
+ 
+  
